@@ -5,5 +5,6 @@ Stagewizeのデモコード(Angular版)です。
 ```shell
 pnpm i
 mkcert localhost
+cursor .
 npm run dev_all
 ```
