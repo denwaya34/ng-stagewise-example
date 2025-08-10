@@ -1,0 +1,9 @@
+{
+  "proxy1": {
+    "source": 4201,
+    "target": 3100,
+    "key": "localhost-key.pem",
+    "cert": "localhost.pem",
+    "hostname": "localhost"
+  }
+}
